@@ -33,8 +33,6 @@ public class Main {
             out.write(line);
             out.newLine();
 
-
-
            // System.out.printf(">>> line: %s\n", line.toUpperCase());
         
     
